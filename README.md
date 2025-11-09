@@ -4,4 +4,6 @@
 - 🌱 At the time working on my Master's Thesis, which envolves Machine Learning techniques for particle physics tracking systems
 - 🤔 Interested mainly in Data Analysis and High Energy Physics simulations
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skostakis&layout=compact&theme=dracula&count_private=true" />
+</p>
